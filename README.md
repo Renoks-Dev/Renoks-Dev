@@ -2,7 +2,7 @@
 
 I'm **Renoks**.
 
-- 🔭 I’m currently working on [my Discord Bot v14 Template](https://github.com/Renoks-Dev/Discord_Bot_v14_Template) and other bits.
+- 🔭 I’m currently working on [Recognie](https://recognie.carrd.co/) and [my Discord Bot v14 Template](https://github.com/Renoks-Dev/Discord_Bot_v14_Template) and other bits.
 - 🌱 I’m currently mainly learning [Discord.js](https://discord.js.org/).
 - 📫 How to reach me: [Discord - @renoks].
 
